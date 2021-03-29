@@ -1,0 +1,68 @@
+TIER0
+r 0 0 f2r
+TIER1
+r 1 1 upg110
+g 1 1 upg110
+b 1 1 upg110
+y 1 1 upg110
+r 1 1 upg101
+g 1 1 upg101
+b 1 1 upg101
+y 1 1 upg101
+r 1 1 p2r b
+r 1 1 p2r y
+g 1 1 p2r b
+g 1 1 p2r y
+b 1 1 p2r g
+b 1 1 p2r r
+y 1 1 p2r r
+y 1 1 p2r g
+r 1 1 f2p
+g 1 1 f2p
+b 1 1 f2p
+y 1 1 f2p
+r 1 1 b2v y
+g 1 1 b2v r
+b 1 1 b2v g
+y 1 1 b2v b
+r 1 1 b2p g
+g 1 1 b2p b
+b 1 1 b2p y
+y 1 1 b2p r
+TIER2
+r 3 3 upg212
+g 3 3 upg212
+b 3 3 upg212
+y 3 3 upg212
+r 3 3 bb2v y g
+g 3 3 bb2v b y
+b 3 3 bb2v g r
+y 3 3 bb2v r b
+r 2 2 bb2p b g
+r 2 2 bb2p b y
+g 2 2 bb2p r b
+g 2 2 bb2p y r
+b 2 2 bb2p y g
+b 2 2 bb2p y r
+y 2 2 bb2p g r
+y 2 2 bb2p b g
+r 3 3 convx2 g
+r 3 3 convx2 b
+g 3 3 convx2 y
+g 3 3 convx2 r
+b 3 3 convx2 r
+b 3 3 convx2 y
+y 3 3 convx2 g
+y 3 3 convx2 b
+r 2 2 convw2 y
+g 2 2 convw2 b
+b 2 2 convw2 g
+y 2 2 convw2 r
+r 2 2 pp2r b g
+g 2 2 pp2r y r
+b 2 2 pp2r y g
+y 2 2 pp2r r b
+r 3 3 bff2pp
+g 3 3 bff2pp
+b 3 3 bff2pp
+y 3 3 bff2pp
